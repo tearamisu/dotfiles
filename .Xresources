@@ -1,0 +1,41 @@
+! special
+*.foreground:   #00b7ff
+*.background:   #08001b
+*.cursorColor:  #00b7ff
+
+! black
+*.color0:       #000000
+*.color8:       #e4a3a2
+
+! red
+*.color1:       #0b1212
+*.color9:       #c0b071
+
+! green
+*.color2:       #1a2525
+*.color10:      #e7a2df
+
+! yellow
+*.color3:       #2f3f3f
+*.color11:      #92e2e3
+
+! blue
+*.color4:       #496060
+*.color12:      #88e99a
+
+! magenta
+*.color5:       #698888
+*.color13:      #7ce8e9
+
+! cyan
+*.color6:       #8eb7b7
+*.color14:      #f4d3f0
+
+! white
+*.color7:       #b8eced
+*.color15:      #d6c47a
+
+XTerm*selectToClipboard: true
+
+xterm*faceName: Sourc Code Pro
+xterm*faceSize: 10
